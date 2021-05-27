@@ -1,0 +1,95 @@
+.option-box .optoin-color{
+   border:4px solid #333;
+}
+.option-box .optoin-color .color-selected{
+    background: #4fd2d9;
+    border-bottom:6px solid #333;
+}
+.option-box i{
+   color: #4fd2d9;
+}
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.our_team .team,
+.footer a:hover,
+.contact_us input[type="text"],
+.contact_us textarea{
+    color: #fff;
+}
+.dropdown-menu{
+   background: #101010;
+    border-top:3px solid #4fd2d9;
+}
+.dropdown-menu > li > a{
+    color: #bfacac;
+}
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.carousel-indicators .active,
+.feature .feat span.glyphicon:hover,
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus{
+   background:#4fd2d9;
+}
+.about .lead, .subscribe h1{
+    color: #888;
+}
+.about span, .testimonial span, .our_team .person h3,
+.statistic .stats:hover i,
+.footer .copy_right span,
+.footer .media h4,
+.footer .media i:hover,
+.contact_us i,
+.footer h3,
+.statistic h1{
+    color: #4fd2d9;
+}
+.feature, .price_table, .subscribe{
+    background: #EEE;
+}
+.feature .feat span.glyphicon{
+    border: 1px solid #4fd2d9;
+}
+.feature .feat span.glyphicon:hover{
+    border: 1px solid #fff;
+ }
+.testimonial .carousel-indicators li,
+.price_table .price_box p{
+    border: 2px solid #FFF;
+}
+.testimonial .carousel-indicators li.active{
+    border: 3px solid #4fd2d9;
+}
+.price_table .price_box{
+    background: #FFF;
+    border: 2px solid #DDD;
+}
+.price_table .price_box p{
+    color: #666;
+    background: #F3F3F3;
+}
+.price_table .price_box:hover p{
+    border:2px solid #DFDFDF;
+}
+.statistic .overlay{
+    color: #B6B5B5;
+}
+.contact_us .overlay{
+    color: #DDD;
+}
+.our_clints{
+    background: #DDD;
+}
+.footer{
+    background: #111;
+}
+.footer a,
+.footer,
+.footer .copy_right{
+    color: #AAA;
+}
+.footer .copy_right{
+    background: #333;
+}

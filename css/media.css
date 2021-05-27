@@ -1,0 +1,13 @@
+/*smart phone and tablets*/
+@media(max-width:767px){
+    .navbar-inverse .navbar-nav > li > a{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    }
+    .navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse{
+        max-height: none;
+    }
+
+
+
+}
